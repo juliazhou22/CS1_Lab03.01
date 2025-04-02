@@ -1,0 +1,10 @@
+Player,370
+wow,200
+look,190
+an,180
+easter,170
+egg,160
+isn't,150
+that,140
+so,130
+cool,120
