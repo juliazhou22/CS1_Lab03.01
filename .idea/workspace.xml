@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d7ae367-ec90-47bb-81c1-b1972d03bc9a" name="Changes" comment="final commit" />
+    <list default="true" id="9d7ae367-ec90-47bb-81c1-b1972d03bc9a" name="Changes" comment="final commit">
+      <change afterPath="$PROJECT_DIR$/img/FRÖSLÖV_Sofa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/POÄNG_Chair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VITTSJÖ_Shelf_Unit.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +87,7 @@
       <workItem from="1743616711432" duration="3279000" />
       <workItem from="1743620019563" duration="15951000" />
       <workItem from="1743732982997" duration="2491000" />
+      <workItem from="1743735497792" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="final commit">
       <option name="closed" value="true" />
@@ -116,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743735454073</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1743735509528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743735509528</updated>
+    </task>
+    <task id="LOCAL-00006" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1743735513835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743735513835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
