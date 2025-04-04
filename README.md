@@ -1,0 +1,1 @@
+This is a mazerunner game where you play as a person trying to get furniture in IKEA. Use arrow keys to control your character (the white square) and collect items while avoiding the employees. Have fun :D
